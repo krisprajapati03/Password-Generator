@@ -15,7 +15,7 @@ A simple and secure password generator built using HTML, CSS, and JavaScript. Th
 - HTML
 - CSS
 - JavaScript
-- 
+  
 ## 🎮 Live Demo
 
 You can try the password generator here: [Live Demo](https://krisprajapati03.github.io/Password-Generator/)
@@ -47,7 +47,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 For any questions or feedback, reach out to me:
 - GitHub: [krisprajapati03](https://github.com/krisprajapati03)
-- LinkedIn: [Kris Prajapati](https://www.linkedin.com/in/kris-prajapati/
+- LinkedIn: [Kris Prajapati](https://www.linkedin.com/in/kris-prajapati/)
 
 ---
 Enjoy generating secure passwords! 🔐
